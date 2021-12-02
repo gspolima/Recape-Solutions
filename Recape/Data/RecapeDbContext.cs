@@ -175,7 +175,7 @@ namespace Recape.Data
                         Origem = "Fortaleza",
                         Destino = "Recife",
                         Preco = 120,
-                        DataPartida = new DateTime(2021, 10, 25, 16, 20, 00),
+                        DataPartida = new DateTime(2022, 03, 19, 16, 20, 00),
                         DuracaoEmHoras = 28
                     },
                     new Viagem()
@@ -184,7 +184,7 @@ namespace Recape.Data
                         Origem = "Fortaleza",
                         Destino = "Juazeiro do Norte",
                         Preco = 90,
-                        DataPartida = new DateTime(2021, 10, 23, 06, 00, 00),
+                        DataPartida = new DateTime(2021, 12, 24, 06, 00, 00),
                         DuracaoEmHoras = 20
                     },
                     new Viagem()
@@ -193,7 +193,7 @@ namespace Recape.Data
                         Origem = "Salvador",
                         Destino = "Belo Horizonte",
                         Preco = 100,
-                        DataPartida = new DateTime(2021, 11, 02, 22, 30, 00),
+                        DataPartida = new DateTime(2022, 10, 12, 22, 30, 00),
                         DuracaoEmHoras = 24
                     },
                     new Viagem()
@@ -202,7 +202,7 @@ namespace Recape.Data
                         Origem = "Porto Alegre",
                         Destino = "Brasília",
                         Preco = 180,
-                        DataPartida = new DateTime(2021, 11, 05, 19, 00, 00),
+                        DataPartida = new DateTime(2022, 06, 12, 19, 00, 00),
                         DuracaoEmHoras = 36
                     }
                 );
